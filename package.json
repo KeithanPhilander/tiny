@@ -1,14 +1,14 @@
 {
-    "name": "@keithan/tiny",
-    "version": "1.0.0",
-    "description": "Removes all spaces from a string",
-    "license": "MIT",
-    "repository": "keithan/tiny",
-    "main": "index.js",
-    "keywords": [
-      "tiny",
-      "npm",
-      "package",
-      "keithan"
-    ]
-  }
+  "name": "@keithan/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "keithan/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "keithan"
+  ]
+}
